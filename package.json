@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@rspack/cli": "^0.5.8",
-    "@rspack/core": "^0.5.8"
+    "@rspack/core": "^0.5.8",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
   }
 }
